@@ -6,7 +6,7 @@ For more details, please see my medium article:
 
 https://kubrasen84.medium.com/customer-lifetime-value-prediction-based-on-statistical-bg-nbd-gamma-gamma-models-e791186245b2
 
-#Dataset
+# Dataset
 Online_Retail_II dataset contains the invoices of the transactions between 01/12/2009 - 09/12/2011 of a UK-based e-trade company
 
 Variables:
