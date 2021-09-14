@@ -9,7 +9,7 @@ https://kubrasen84.medium.com/customer-lifetime-value-prediction-based-on-statis
 # Dataset
 Online_Retail_II dataset contains the invoices of the transactions between 01/12/2009 - 09/12/2011 of a UK-based e-trade company
 
-Variables:
+# Variables:
 InvoiceNo: Invoice number. Nominal. A 6-digit integral number uniquely assigned to each transaction. If this code starts with the letter 'c', it indicates a cancellation.\
 StockCode: Product (item) code. Nominal. A 5-digit integral number uniquely assigned to each distinct product. \
 Description: Product (item) name. Nominal.    \
